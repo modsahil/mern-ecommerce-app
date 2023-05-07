@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* font-family: 'Halant', serif; */
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Playfair Display', serif;  */
+
+
+a{
+  text-decoration: none;
+}
+ 
+/*
+==================================
+======Register Now================ */
+
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+}
